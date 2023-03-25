@@ -1,0 +1,10 @@
+C:\Users\Zainab Harraz\source\repos\puzzletask\puzzletask\obj\Debug\puzzletask.csproj.AssemblyReference.cache
+C:\Users\Zainab Harraz\source\repos\puzzletask\puzzletask\obj\Debug\puzzletask.Form1.resources
+C:\Users\Zainab Harraz\source\repos\puzzletask\puzzletask\obj\Debug\puzzletask.Properties.Resources.resources
+C:\Users\Zainab Harraz\source\repos\puzzletask\puzzletask\obj\Debug\puzzletask.csproj.GenerateResource.cache
+C:\Users\Zainab Harraz\source\repos\puzzletask\puzzletask\obj\Debug\puzzletask.csproj.CoreCompileInputs.cache
+C:\Users\Zainab Harraz\source\repos\puzzletask\puzzletask\bin\Debug\puzzletask.exe.config
+C:\Users\Zainab Harraz\source\repos\puzzletask\puzzletask\bin\Debug\puzzletask.exe
+C:\Users\Zainab Harraz\source\repos\puzzletask\puzzletask\bin\Debug\puzzletask.pdb
+C:\Users\Zainab Harraz\source\repos\puzzletask\puzzletask\obj\Debug\puzzletask.exe
+C:\Users\Zainab Harraz\source\repos\puzzletask\puzzletask\obj\Debug\puzzletask.pdb
